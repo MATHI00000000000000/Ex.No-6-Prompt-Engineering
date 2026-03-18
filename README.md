@@ -95,9 +95,9 @@ Insight: The review tone is neutral or negative.
 [nltk_data]   Package vader_lexicon is already up-to-date!
 ~~~
 
-# output
+# Result: 
 
 Thus the prompt for both postive and negative review of sentiment analysis is exceuted successfully.
 
 
-Result: 
+
